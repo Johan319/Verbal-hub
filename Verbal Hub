@@ -13609,4 +13609,4 @@ OrionLib:MakeNotification({
     Image = "rbxassetid://18793558154",
     Time = 4
 })
-OrionLib:MakeNotific
+OrionLib:Init()
